@@ -5,6 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 5000; // or any PORT you prefer
 
 const medicine_routes = require("./routes/medicine");
+const disease_routes = require("./routes/disease");
 const connectDB = require("./db/connect");
 
 // Allow all requests from the specified origin (http://localhost:3000)
@@ -15,6 +16,8 @@ app.get("/", (req, res) => {
 });
 
 app.use("/api/medicine", medicine_routes);
+
+app.use("/api/disease", disease_routes);
 
 const start = async () => {
   try {
