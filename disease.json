@@ -23,7 +23,7 @@
         "medicineId": "03",
         "medicineName": "Panadol",
         "medicineDetail": "Panadol can be used for relieving fever and/or for the treatment of mild to moderate pain including headache, migraine, muscle ache, dysmenorrhea.",
-        "Uses": "This medicine is used to treat acute and chronic (short and long term) painful muscular conditions, tension, headache, dysmenorrhea (painful menstruation), and non-articular rheumatism (a group of conditions characterized by muscular aches which do not arise from joints).",
+        "uses": "This medicine is used to treat acute and chronic (short and long term) painful muscular conditions, tension, headache, dysmenorrhea (painful menstruation), and non-articular rheumatism (a group of conditions characterized by muscular aches which do not arise from joints).",
         "SideEffects": "This medicine has no known side effects. However if you do experience any unusual side effects please make sure to consult your doctor."
       },
       {
@@ -37,7 +37,7 @@
         "medicineId": "05",
         "medicineName": "Advil",
         "medicineDetail": "Advil is a nonsteroidal anti-inflammatory drug (NSAID). Ibuprofen works by reducing hormones that cause inflammation and pain in the body.",
-        "Uses": "This medicine is used to treat acute and chronic (short and long term) painful muscular conditions, tension, headache, dysmenorrhea (painful menstruation), and non-articular rheumatism (a group of conditions characterized by muscular aches which do not arise from joints).",
+        "uses": "This medicine is used to treat acute and chronic (short and long term) painful muscular conditions, tension, headache, dysmenorrhea (painful menstruation), and non-articular rheumatism (a group of conditions characterized by muscular aches which do not arise from joints).",
         "SideEffects": " changes in your vision and shortness of breath (even with mild exertion) an swelling or rapid weight gain and a skin rash, no matter how mild"
       }
     ]
